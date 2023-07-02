@@ -1,0 +1,7 @@
+name: Teleport
+version: '${project.version}'
+main: de.jupe2909.teleportsystem.Telesys
+api-version: '1.19'
+commands:
+  test:
+  compass:
